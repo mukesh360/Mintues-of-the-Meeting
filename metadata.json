@@ -1,0 +1,5 @@
+{
+  "name": "MoM AI Assistant",
+  "description": "An intelligent web application that uses AI to transcribe, summarize, and analyze meeting minutes. Users can input a meeting transcript, and the app will automatically identify speakers, generate summaries for each participant, and extract key action items.",
+  "requestFramePermissions": []
+}
